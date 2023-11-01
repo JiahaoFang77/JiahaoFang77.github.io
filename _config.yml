@@ -11,7 +11,7 @@ title                    : "Jiahao(Oliver) Fang"
 title_separator          : "-"
 name                     : &name "Jiahao Fang"
 description              : &description "Jiahao Fang's Personal Website"
-url                      : https://JiahaoFang77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JiahaoFang77.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiahaoFang77.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahao Fang"
   avatar           : "index.jpg"
-  bio              : "Undergraduate student from ZJU-UIUC Institute, pursuing a Bachelor of Science degree in Electrical Engineering"
+  bio              : "ZJUI & UIUC Undergraduate 2020-2024 EE & CS Minor"
   location         : "Illinois, United States"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
