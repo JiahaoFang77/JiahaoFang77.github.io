@@ -9,7 +9,7 @@ author_profile: true
 * Submitted to ACM SIGMOD/PODS 2024
 * Authors: Akash Mittal, Chenghao Mo, Jiahao Fang, Chengsong Zhang, Tengjun Jin,
 Daniel Kang (Primary).
-* [Recent Draft](https://github.com/JiahaoFang77/JiahaoFang77.github.io/files/paper_aug.pdf)
+* [Recent Draft](https://JiahaoFang77.github.io/files/paper_aug.pdf)
   
 ### Abstract
 Analysts and scientists are interested in automatically analyzing the semantic contents of unstructured, non-tabular data (videos, images, text, and audio). In order to extract semantic information, analysts have turned to machine learning (ML), which can be used in unstructured data analytics systems. The most common method of using ML in analytics systems is to call them as user-defined functions (UDFs). Unfortunately, UDFs can be difficult for query optimizers to reason over. Furthermore, they can be difficult to implement and unintuitive to application users.
