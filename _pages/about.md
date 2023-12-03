@@ -16,12 +16,12 @@ You can view my [most recent CV](https://JiahaoFang77.github.io/files/resume.pdf
 Research Experience
 ======
 - Contribution to Conference Publication in The Data and Information Systems Laboratory (DAIS), University of Illinois Urbana-Champaign, Supervised by Prof. [Daniel Kang](https://ddkang.github.io/), June 2023 - Present
-Implemented and reproduced functioning code of [specify approximate selection with guarantees (SUPG)](https://github.com/JiahaoFang77/supg) to prepare for Approximate Selection with Guarantees using Proxies
-Generated experiment datasets, modify codes, and did experiments about query optimization for Applied AI for Database Systems and Applications (AIDB)
+1. Implemented and reproduced functioning code of [specify approximate selection with guarantees (SUPG)](https://github.com/JiahaoFang77/supg) to prepare for Approximate Selection with Guarantees using Proxies
+2. Generated experiment datasets, modify codes, and did experiments about query optimization for Applied AI for Database Systems and Applications (AIDB)
 
 - Independent Study Course about image processing, University of Illinois Urbana-Champaign, Supervised by Prof. [Jane Zhao](https://zhizhenz.ece.illinois.edu/), January - May 2023
-Developed object detection Machine Learning models in different types of unstructured datasets, such as images, audios, and videos
-Summaried advantages of vaious Machine Learning algorithms based on math proof in [Course Report](https://github.com/JiahaoFang77/397_23_Spring)
+1. Developed object detection Machine Learning models in different types of unstructured datasets, such as images, audios, and videos
+2. Summaried advantages of vaious Machine Learning algorithms based on math proof in [Course Report](https://github.com/JiahaoFang77/397_23_Spring)
 
 
 Course Project
