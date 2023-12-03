@@ -35,3 +35,8 @@ Honors and Awards
 ======
 - The Third Prize of Zhejiang University Academic Excellence, September 2020 - June 2021
 - Meritorious Winner (Top 7 percent) in The Mathematical Contest in Modeling in Problem B (discrete problem), January 2021
+
+
+Youtube Channel
+======
+Welcome to my [channel](www.youtube.com/@jiahaofang7242)!
