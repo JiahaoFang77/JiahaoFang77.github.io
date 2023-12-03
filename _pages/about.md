@@ -21,7 +21,7 @@ RESEARCH EXPERIENCE
 
 2. Independent Study Course about image processing, University of Illinois Urbana-Champaign, Supervised by Prof. [Jane Zhao](https://zhizhenz.ece.illinois.edu/), January - May 2023
 - Developed object detection Machine Learning models in different types of unstructured datasets, such as images, audios, and videos
-- Summaried advantages of vaious Machine Learning algorithms based on math proof in [Course Report](https://github.com/JiahaoFang77/397_23_Spring).
+- Summaried advantages of vaious Machine Learning algorithms based on math proof in [Course Report](https://github.com/JiahaoFang77/397_23_Spring)
 
 
 COURSE PROJECT
