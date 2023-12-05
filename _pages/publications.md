@@ -7,8 +7,7 @@ author_profile: true
 
 ## AIDB: a Sparsely Materialized Database for Queries using Machine Learning
 * Submitted to ACM SIGMOD/PODS 2024
-* Authors: Akash Mittal, Chenghao Mo, Jiahao Fang, Chengsong Zhang, Tengjun Jin,
-Daniel Kang (Primary).
+* Authors: Akash Mittal, Chenghao Mo, Jiahao Fang, Chengsong Zhang, Tengjun Jin, Timothy Dai, Daniel Kang*.
 * [Recent Draft](https://JiahaoFang77.github.io/files/paper_aug.pdf)
   
 ### Abstract
