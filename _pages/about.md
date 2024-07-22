@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jiahao Fang from Zhejiang University and University of Illinois at Urbana-Champaign, majoring Electrical Engineering and expected to receive the degree of Bachelor of Science with CS Minor in May, 2024. I am now working closely with Prof. [Daniel Kang](https://ddkang.github.io/) with AIDB. I also gained the experience of taking independent study course of Machine Learning with Prof. [Jane Zhao](https://zhizhenz.ece.illinois.edu/).
+My name is Jiahao Fang, and I have just graduated from UIUC as an ECE undergraduate student with a Computer Science minor. I will be starting my graduate studies in the MSCS program at UIUC in August, 2024. I worked closely with Prof. [Daniel Kang](https://ddkang.github.io/) with AIDB during my senior year as an undergraduate research assistant. I also gained the experience of taking independent study course of Machine Learning with Prof. [Jane Zhao](https://zhizhenz.ece.illinois.edu/).
 
 You can view my [most recent CV](https://JiahaoFang77.github.io/files/Jiahao_Fang_CV.pdf), [official transcripts from UIUC](https://JiahaoFang77.github.io/files/Jiahao_Fang_UIUC_Official_Transcript.pdf), [official transcripts from ZJUI](https://JiahaoFang77.github.io/files/Jiahao_Fang_ZJUI_Official_Transcript.pdf), and [publications](https://jiahaofang77.github.io/publications/) here.
 
@@ -35,4 +35,4 @@ Honors and Awards
 ======
 - The Third Prize of Zhejiang University Academic Excellence, September 2020 - June 2021
 - Meritorious Winner (Top 7 percent) in The Mathematical Contest in Modeling in Problem B (discrete problem), January 2021
-
+- The Third Prize of Zhejiang University Academic Excellence, September 2022 - June 2023
