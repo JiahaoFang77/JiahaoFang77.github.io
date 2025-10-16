@@ -12,7 +12,7 @@ My name is Jiahao Fang, and I am currently a Master of Science (M.S.) student in
 
 During my undergraduate studies, I had the privilege of working as a research assistant with Prof. [Daniel Kang](https://ddkang.github.io/) on the AIDB project, which resulted in a publication at the DEEM workshop @ SIGMOD 2024. I also gained experience in machine learning and computational imaging through an independent study with Prof. [Jane Zhao](https://zhizhenz.ece.illinois.edu/).
 
-You can view my [most recent CV](https://JiahaoFang77.github.io/files/Jiahao_Fang_CV.pdf), [official transcripts from UIUC](https://JiahaoFang77.github.io/files/Jiahao_Fang_UIUC_Unofficial_Transcript.pdf), [official transcripts from ZJUI](https://JiahaoFang77.github.io/files/Jiahao_Fang_ZJUI_Official_Transcript.pdf), and [publications](https://jiahaofang77.github.io/publications/) here.
+You can view my [most recent CV](https://JiahaoFang77.github.io/files/Jiahao_Fang_CV.pdf), [official transcripts from UIUC](https://JiahaoFang77.github.io/files/Jiahao_Fang_UIUC_Official_Transcript.pdf), [official transcripts from ZJUI](https://JiahaoFang77.github.io/files/Jiahao_Fang_ZJUI_Official_Transcript.pdf), and [publications](https://jiahaofang77.github.io/publications/) here.
 
 Research Experience
 ======
